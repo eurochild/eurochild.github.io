@@ -9,7 +9,7 @@ relative_permalinks: true
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+locale:              en_us # eg. en_us
 name:				         RadChronicle
 title:               RadChronicle
 tagline:             'tagline'
